@@ -1,7 +1,9 @@
 # DMAR-Textiles-Database-Management
 DMAR Textiles Database Management  <br>
 Database Management System  <br>
-
+<br>
+For a detailed overview check [breif](https://github.com/No3Mc/DMAR-Textiles-Database-Management/blob/main/breif.md)<br>
+<br>
 ![0RnrjCL](https://user-images.githubusercontent.com/41834061/159145687-47e75938-9840-4fb8-91b8-1cc63765ea5a.png)
 ![1MFi8NA](https://user-images.githubusercontent.com/41834061/159145690-efd45cae-7408-4532-831e-992a25055b70.png)
 ![1UUDMaJ](https://user-images.githubusercontent.com/41834061/159145691-eb47aecb-27c2-4b06-97f1-44b7174dae19.png)
